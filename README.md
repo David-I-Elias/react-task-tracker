@@ -6,9 +6,11 @@ HOW TO RUN:
 Enter the following into 2 seperate terminals:
 
   First terminal -> npm run server
+  
   This starts the mock backend server that we need to run the app
   
   Second terminal -> npm start
+  
   This launches the application
 
 ## Available Scripts
